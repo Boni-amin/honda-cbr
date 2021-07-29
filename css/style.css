@@ -3,6 +3,14 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+/* reuseable class */
+.head-h1{
+    font-size: 48px;
+}
+.img-border{
+    border: none;
+}
+/* reuseable class  end*/
 /* header start */
 .text-line-he{
     line-height: 26px;
