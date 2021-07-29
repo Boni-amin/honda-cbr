@@ -2,8 +2,12 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 /* reuseable class */
+section{
+    margin: 80px auto;
+}
 .head-h1{
     font-size: 48px;
 }
@@ -16,3 +20,19 @@
     line-height: 26px;
 }
 /* header end */
+/* Feature Bike section start  */
+.feature-bike{
+    margin: 60px auto;
+}
+/* Feature Bike section end  */
+/* Happy client section start */
+.happy-client{
+    margin-top: 135px;
+}
+/* Happy client section end */
+/* Quection section start */
+.quection{
+    margin-top: 140px !important;
+}
+/* Quection section end */
+
